@@ -1,0 +1,4 @@
+--x: 2;
+--y: 3;
+--background-lightness: 80%;
+--text-lightness: 20%;
